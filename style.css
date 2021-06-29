@@ -1,0 +1,78 @@
+header{
+    width: 100%;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+    margin-bottom: 100px;
+}
+#Singin{
+    background-color:#21B573;
+    color: white;
+    border-radius: 33px;
+    padding: 12px 28px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.Get-Started-button{
+    background-color:#21B573;
+    color: white;
+    border-radius: 33px;
+    padding: 12px 36px;
+    border: none;
+}
+.cards{
+    text-align: center;
+    line-height: 30px;
+}
+.cards img{
+    width: 80px;
+    height: 90px;
+    left: 535px;
+    top: 670px;
+    border-radius: 0px;
+    margin-top: 54px;
+    margin-bottom: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: #F8FFFB;
+}
+.card-footer {
+    background-color: #F8FFFB;
+    border-top: none;
+}
+.online-course h1{
+    text-align: center;
+    padding-bottom: 80px;
+}
+.online-course img{
+    padding: 15px;
+}
+.iconf img{
+    height: 50px;
+}
+.Testimonial h1{
+    text-align: center;
+    padding-bottom: 80px;
+}
+.Testimonial img{
+    height: 100px;
+}
+footer{
+    width: 100%;
+    height: 370px;
+    left: 0px;
+    top: 0px;
+    background: #282531;
+    color: white;
+}
+.last{
+    padding-top: 60px;
+}
+.ftext{
+    text-align: center;
+}
